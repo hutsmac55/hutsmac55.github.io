@@ -6,9 +6,12 @@
   line-height:24px;
   color:#737373;
 }
+.site-footer p{
+color: #fff;
+}
 .site-footer hr
 {
-  border-top-color:#bbb;
+  border-top-color:#fff;
   opacity:0.5
 }
 .site-footer hr.small
@@ -70,7 +73,7 @@
 }
 .copyright-text
 {
-  margin:0
+  margin-top:40px;
 }
 @media (max-width:991px)
 {
@@ -142,11 +145,11 @@
 }
 .social-icons a.twitter:hover
 {
-  background-color:#00aced
+  background-color:#f1016c
 }
 .social-icons a.linkedin:hover
 {
-  background-color:#007bb6
+  background-color:#f20103
 }
 .social-icons a.dribbble:hover
 {

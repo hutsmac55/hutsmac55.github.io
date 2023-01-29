@@ -2022,7 +2022,7 @@ input[type="radio"] .styled:checked+label::after {
      margin-bottom: 0px;
 }
 .amazing .amazing-box a {
-     font-size: 17px;
+     font-size: 13px;
      padding: 15px 50px;
      background-color: #ee580f;
      color: #fff;
@@ -2289,3 +2289,5 @@ ul.location_icon span {
      z-index: 999;
 }
 /** slider arrow **/
+
+
